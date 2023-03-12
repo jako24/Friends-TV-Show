@@ -26,6 +26,11 @@ Based on the output, we can see that Ross and Rachel have the highest number of 
 
 Chandler and Monica come in at a close second with 8024 and 8022 lines respectively, followed by Joey with 7908 lines. Phoebe has the lowest number of lines spoken among the main cast with 7048 lines.
 
-However, it's important to note that the number of lines spoken doesn't necessarily equate to the importance of the character or their impact on the show. Each character had their own unique personality and contributed to the overall dynamic of the show in their own way.
+However, it's important to note that **the number of lines spoken doesn't necessarily equate to the importance of the character or their impact on the show**. Each character had their own unique personality and contributed to the overall dynamic of the show in their own way.
 
 Overall, it's interesting to see the breakdown of lines spoken among the main cast and how it reflects the character's individual roles and contributions to the show.
+
+### Graph Representaiton 
+
+![image](https://user-images.githubusercontent.com/92218899/224563123-19ee389e-7eac-4530-8467-987bc57c9d80.png)
+
