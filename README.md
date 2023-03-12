@@ -34,3 +34,7 @@ Overall, it's interesting to see the breakdown of lines spoken among the main ca
 
 ![image](https://user-images.githubusercontent.com/92218899/224563123-19ee389e-7eac-4530-8467-987bc57c9d80.png)
 
+## Credits 
+
+All data is collected from the website below 
+https://fangj.github.io/friends/ 
