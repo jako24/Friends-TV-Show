@@ -36,5 +36,5 @@ Overall, it's interesting to see the breakdown of lines spoken among the main ca
 
 ## Credits 
 
-All data is collected from the website below 
+All data is collected from this website
 https://fangj.github.io/friends/ 
